@@ -22,7 +22,7 @@
 
 ## Группа поддержки в Telegramm
 
-- по разработке в 1C:EDT [@e1c_edt](https://t.me/e1c_edt) и [правла группы](https://t.me/e1c_edt/2)
+- по разработке в 1C:EDT [@e1c_edt](https://t.me/e1c_edt) и [правила группы](https://t.me/e1c_edt/2)
 - по разработке плагинов для 1C:EDT [@e1c_edt_plugindev](https://t.me/e1c_edt_plugindev)
 
 
