@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Группа поддержки в Telegram 
+    url: https://t.me/e1c_edt
+    about: Спросите любой вопрос по разработке в 1C:EDT, правила группы https://t.me/e1c_edt/2
+  - name: Правила участия в проекте 1C:EDT Issues (багтрекер)
+    url: https://github.com/1C-Company/1c-edt-issues/blob/main/Contributing.md
+    about: Перед первым размещением тикета рекомендуем ознакомиться с правилами участия и регламентами публичного трекера.
+  - name: Классификация задач
+    url: https://github.com/1C-Company/1c-edt-issues/blob/main/TASK_CLASSIFICATION.md
+    about: Ознакомьтесь с классификацией критичности ошибок; что не является ошибкой
