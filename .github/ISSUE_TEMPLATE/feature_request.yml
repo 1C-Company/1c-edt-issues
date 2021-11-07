@@ -2,7 +2,6 @@ name: Пожелание
 description: Предложите вашу идею для проекта EDT
 title: "Моя идея..."
 labels: ["enhancement"]
-assignees: ""
 body:
   - type: markdown
     attributes:
@@ -32,6 +31,5 @@ body:
       label: Дополнительная информация
       description: Любой дополнительный контекст, ссылки, скриншоты очень помогают...
       placeholder: Что-нибудь еще важное и полезное по этой теме?
-      value: ""
     validations:
       required: false
