@@ -74,7 +74,7 @@ body:
   - type: dropdown
     id: os
     attributes:
-      label: Операционаня система
+      label: Операционная система
       description: Укажите, на каких операционных системах ошибка воспроизводится у вас?
       multiple: true
       options:
@@ -86,7 +86,7 @@ body:
   - type: dropdown
     id: plug-ins
     attributes:
-      label: Установленые плагины
+      label: Установленные плагины
       description: Укажите, какие плагины у вас установлены?
       multiple: true
       options:
