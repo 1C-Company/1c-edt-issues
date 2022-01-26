@@ -14,6 +14,7 @@
 Просим использовать отдельные репозитории для регистрации пожеланий или ошибок по:
 - [плагину 1C:Code Style V8](https://github.com/1C-Company/v8-code-style)
 - [плагину поддержки 1С:БСП](https://github.com/1C-Company/ssl-support) 
+- [плагину проверок структурной целостности проектов "1С:Предприятия 8"](https://github.com/1C-Company/dt-project-checks)
 
 ## Здесь вы можете
 
