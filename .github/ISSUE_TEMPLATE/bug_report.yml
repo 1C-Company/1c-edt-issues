@@ -83,6 +83,14 @@ body:
         - Linux
     validations:
       required: true
+  - type: input
+    id: v8-platform-version
+    attributes:
+      label: Версия платформы 1С:Предприятие 8
+      description: "Укажите используемую версию платформы 1С:Предприятие 8 для разработки"
+      placeholder: например, 8.3.18.1563
+    validations:
+      required: true
   - type: dropdown
     id: plug-ins
     attributes:
@@ -106,7 +114,6 @@ body:
         - Версию типовой конфигурации 1С + объект в котором воспроизводится проблема
         - Ссылки на публичные проекты 1С в котором воспроизводится проблема
         - Версия вашей OS если это важно?
-        - Версия платформы 1С [например] `8.3.18.1563`
       placeholder: Что-нибудь еще важное и полезное по этой ошибке?
     validations:
       required: false
