@@ -79,15 +79,15 @@ body:
       label: Регрессия
       description: Выставить флаг, если в ранее использовавшейся версии 1C:EDT ошибка не наблюдалась.
       options:
-        - true
-        - false
+        - label: Это регрессия.
+          required: false
     validations:
-      required: true
+      required: false
   - type: input
     id: old-edt-version
     attributes:
       label: Используемая ранее версия 1C:EDT
-      description: "Укажите используемую версию 1C:EDT, на которой ошибки не было."
+      description: Если это регрессия, то укажите версию 1C:EDT, на которой ошибки не было.
       placeholder: например, 2025.2.5
     validations:
       required: false
