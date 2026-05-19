@@ -77,6 +77,24 @@ body:
       placeholder: например, Ruby 2021.2.8.3
     validations:
       required: true
+  - type: checkboxes
+    id: regress
+    attributes:
+      label: Регрессия
+      description: Выставить флаг, если в ранее использовавшейся версии 1C:EDT ошибка не наблюдалась.
+      options:
+        - true
+        - false
+    validations:
+      required: true
+  - type: input
+    id: old-edt-version
+    attributes:
+      label: Используемая ранее версия 1C:EDT
+      description: "Укажите используемую версию 1C:EDT, на которой ошибки не было."
+      placeholder: например, 2025.2.5
+    validations:
+      required: false
   - type: dropdown
     id: os
     attributes:
